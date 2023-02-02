@@ -1,6 +1,6 @@
 # Some web Concepts
 
-&emsp;This is a repository to post my web journey, here you will find a bunch of knowledge I have been acquiring since my beginning in web development. </br>
+&emsp;This is a repository to post my web journey, here you will find a bunch of knowledge I have been acquiring since my beginning in web development. You can also find many folders with some simple projects that I made for studying. </br>
 &emsp;Just reinforcing that here I am writing many things that I have been learning, so some information here might not be that correct :), and this repository is constantly evolving and changing. </br>
 &emsp;It's also important to say that here you will find very simple descriptions about not so simple concepts, the complete content is listed in the [references](#references-and-other-content).
 
