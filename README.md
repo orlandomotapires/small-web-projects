@@ -74,3 +74,4 @@
 
 1. <https://developer.mozilla.org/en-US/>
 2. <https://app.rocketseat.com.br>
+3. <https://www.cloudflare.com/pt-br/learning/ssl/what-happens-in-a-tls-handshake/>
