@@ -12,12 +12,7 @@
 
 ## **Summary**
 
-### **Part 1 - How WEB Works**
-
 [How WEB Works](#how-web-works)</br>
-
-### **Part 2 - Programming concepts**
-
 [Programming concepts](#programming-concepts)</br>
 
 ---
