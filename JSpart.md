@@ -1,3 +1,0 @@
-# IN CONSTRUCTION
-
-[Back To Main README](./README.md)
